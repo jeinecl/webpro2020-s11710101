@@ -35,4 +35,4 @@ const person = {
     lastName: "Adam",
     age: 33.
 };
-console.log(`Halo nama saya  ${person.firstName} ${person.lastName} Umur saya adalah ${person.age} tahun.`)
+console.log(`Halo nama saya  ${person.firstName} ${person.lastName}. Umur saya adalah ${person.age} tahun.`)
