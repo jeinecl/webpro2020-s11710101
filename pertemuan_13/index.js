@@ -51,7 +51,7 @@ let orang = {
 };
 orang = {...orang, pekerjaan: 'Guru', pendidikan: 'S2'}; 
 console.log(orang);
-
+//menggabungkan objek
 const obj1 = {a: 1, b: 2 };
 const obj2 = { c: 3, d:4 };
 const objGabung = {...obj1, ...obj2};
